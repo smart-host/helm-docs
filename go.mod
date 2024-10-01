@@ -1,4 +1,4 @@
-module github.com/norwoodj/helm-docs
+module github.com/smart-host/helm-docs
 
 go 1.22.0
 
